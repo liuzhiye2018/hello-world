@@ -1,2 +1,3 @@
 # hello-world
-try to creat a new repository
+hi humans!
+i like java 
